@@ -1,2 +1,3 @@
-template-file-path: aws-cloudformation/s3-bucket-creation.yaml
-
+template-file-path: s3-bucket-creation.yaml
+parameters: {}
+tags: {}
